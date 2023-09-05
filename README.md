@@ -1,5 +1,13 @@
-### Hi, I'm Stephen 👋
-How are you
+**Hi, I'm Stephen** :sunglasses:
+
+I'm currently a data science student at CodeUp.
+
+My interests include music, fitness and automobiles.
+
+LinkedIn: https://www.linkedin.com/in/stephen-spivey-75a85311/
+
+
+
 
 
 
