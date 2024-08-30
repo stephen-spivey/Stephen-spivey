@@ -1,6 +1,6 @@
 **Hi, I'm Stephen** :sunglasses:
 
-I'm currently working on my IBM Data Science certificate and developing a portfolio of machine learning projects.
+I just completed my IBM Data Science certificate and I'm starting to develop a portfolio of machine learning projects.
 I also studied data science at Codeup until it closed.
 I intend to incorporate data science with my market research and strategy consulting background to develop meaningful
 data-based conclusions and recommendations that drive business growth.
